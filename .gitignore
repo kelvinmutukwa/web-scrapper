@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Data files
+scraped_data.csv
+scraper.log
+
+# IDE
+.idea/
+.vscode/
