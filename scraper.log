@@ -1,0 +1,30 @@
+2025-04-15 12:17:17,109 - INFO - Scheduler stopped by user.
+2025-04-15 12:20:30,817 - INFO - Scheduler stopped by user.
+2025-04-15 12:27:07,518 - INFO - Scheduler stopped by user.
+2025-04-15 13:45:22,629 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 13:45:23,703 - INFO - Successfully saved 10 jobs to scraped_data.csv
+2025-04-15 13:45:40,623 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 13:45:41,811 - INFO - Successfully saved 10 jobs to scraped_data.csv
+2025-04-15 14:42:58,732 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 14:42:59,782 - ERROR - Error scraping https://vacancymail.co.zw/jobs/: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-15 14:43:19,920 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 14:43:21,045 - ERROR - Error scraping https://vacancymail.co.zw/jobs/: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-15 14:43:47,529 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 14:43:48,504 - ERROR - Error scraping https://vacancymail.co.zw/jobs/: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-15 14:51:17,763 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 14:51:18,721 - ERROR - Permission denied for c:\Users\uncommonstudent\Desktop\web scrapper\scraped_data.csv
+2025-04-15 14:51:18,721 - ERROR - Error scraping https://vacancymail.co.zw/jobs/: [Errno 13] Permission denied: 'c:\\Users\\uncommonstudent\\Desktop\\web scrapper\\scraped_data.csv'
+2025-04-15 15:01:23,998 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 15:01:25,762 - INFO - Successfully saved 10 jobs to c:\Users\uncommonstudent\Desktop\web scrapper\scraped_data.csv
+2025-04-15 15:01:49,525 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 15:01:50,498 - INFO - Successfully saved 10 jobs to c:\Users\uncommonstudent\Desktop\web scrapper\scraped_data.csv
+2025-04-15 15:03:49,988 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-15 15:03:51,019 - INFO - Successfully saved 10 jobs to c:\Users\uncommonstudent\Desktop\web scrapper\scraped_data.csv
+2025-04-16 00:30:40,823 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 00:30:40,833 - ERROR - Error scraping https://vacancymail.co.zw/jobs/: HTTPSConnectionPool(host='vacancymail.co.zw', port=443): Max retries exceeded with url: /jobs/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E01695BCB0>: Failed to resolve 'vacancymail.co.zw' ([Errno 11001] getaddrinfo failed)"))
+2025-04-16 10:47:13,841 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 10:47:14,819 - INFO - Successfully saved 10 jobs to c:\Users\uncommonstudent\Desktop\web scrapper\scraped_data.csv
+2025-04-16 12:51:36,554 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 12:51:37,618 - INFO - Successfully saved 10 jobs to c:\Users\uncommonstudent\Desktop\web scrapper\scraped_data.csv
+2025-04-16 14:10:40,237 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 14:10:43,375 - INFO - Successfully saved 10 jobs to c:\Users\uncommonstudent\Desktop\web scrapper\scraped_data.csv
