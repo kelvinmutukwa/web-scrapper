@@ -12,7 +12,6 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
-
 def get_safe_output_path():
     """Get a safe output path that we have permission to write to"""
     # Try project directory first
